@@ -1,12 +1,6 @@
-# v0.1.1 (Fri Feb 12 2021)
+# v0.1.0 (Tue Sep 03 2019)
 
-#### ⚠️ Pushed to `master`
-
-- build settings ([@emanocera](https://github.com/emanocera))
-- deleted some files ([@emanocera](https://github.com/emanocera))
-- first version ([@emanocera](https://github.com/emanocera))
-- Initialize project using Create React App ([@emanocera](https://github.com/emanocera))
+- Created first release version of components.
 
 #### Authors: 1
-
-- [@emanocera](https://github.com/emanocera)
+- Emmanuel Nocera ([@emanocera](https://github.com/emanocera))
